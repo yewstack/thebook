@@ -1,0 +1,5 @@
+[book]
+authors = ["Denis Kolodin"]
+multilingual = false
+src = "src"
+title = "Development with Yew"
